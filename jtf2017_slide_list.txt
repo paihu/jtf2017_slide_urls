@@ -96,6 +96,7 @@ F40_2 cronやDHCPなど「あって当たり前な機能」の最新ツール事
   https://github.com/lclarkmichalek/etcdhcp
 
 F40_3 機械学習に超入門したはずが、いつのまにかFPGAを触っていた話
+https://www.slideshare.net/shihoasa/fpga-79188871
 
 G40 Javaで入門！ヤフーでも挑戦中のTDD&ペアプログラミング講座
 
@@ -116,6 +117,7 @@ C50_3 マイクロサービスは甘くない！運用してみて分かった�
 https://www.slideshare.net/nobusue/light-and-shadow-of-microservices
 
 D50 ビジネスを支える高速デリバリを実現するアーキテクチャ
+  後日 https://twitter.com/tn961ir/status/901792075657736193
 
 E50 CDNのトレンド2017：セキュリティCDNとマルチCDN
 
