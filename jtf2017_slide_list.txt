@@ -72,6 +72,7 @@ https://speakerdeck.com/kakakakakku/approaches-of-devops-and-organization
 
 
 A40 Kubernetes でクラスタリングして解決したことと新たに出てきた課題
+https://speakerdeck.com/koudaiii/number-jtf2017
   http://qiita.com/koudaiii/items/bc89368e1279649f2498
 
 B40 14万人が来場した大規模イベント「Interop」を支えた運用監視ツール Zabbix。その裏側での奮闘記
