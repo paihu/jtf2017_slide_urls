@@ -104,7 +104,8 @@ G40 Javaで入門！ヤフーでも挑戦中のTDD&ペアプログラミング�
 A50 どんなに頑張ったって運用の自動化もDevOpsも進まない。そう、テストがなければね
 
 B50 Grafanaで作ってみた、運用ダッシュボード Zabbix, JobScheduler, CMDBuildなど複数のデータソースをまとめて表示
-  後日？ https://www.ossl.co.jp/?p=505
+https://www.slideshare.net/sfunai/170827-jtf-garafana
+
 C50_1 クラウド時代のネットワーク＆セキュリティ
 https://speakerdeck.com/toshi__ya/20170827jtf
 
