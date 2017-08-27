@@ -1,0 +1,125 @@
+jtf
+
+A00 「ITエンジニアリングの本質」を考える
+https://www.slideshare.net/enakai/it-78447313
+
+
+
+A10 今日から始めるAnsible
+https://www.slideshare.net/h-saito/ansible101
+
+B10 Web サービスの信頼性を守るための取り組み
+https://speakerdeck.com/rrreeeyyy/jtf-2017-site-reliability-engineering
+
+C10 Internetトラフィックエンジニアリングの現実
+https://www.slideshare.net/tech_jstream/traffic-engineering-jtf2017
+  https://tech.jstream.jp/blog/meeting/jtf2017_te/
+
+D10 ブロックチェーン実践入門。30秒で39億円を集める「スマートコントラクト」の衝撃とその作り方
+http://slides.com/urelx/learn-blockchain-with-bat-smart-contract
+
+E10 Rancherで作るお手軽コンテナ運用環境！ ～ Kubenetes & Mesos牧場でコンテナ牛を飼おう！～
+https://www.slideshare.net/tsukaman/rancher-kubenetes-mesos
+
+F10 Elasticsearchと科学技術ビッグデータが切り拓く日本の知の俯瞰と発見
+https://www.slideshare.net/yasushihara/elasticsearch-15-spias
+https://www.slideshare.net/mkiuchi4/elasticsearch-79184472
+
+
+
+A20 Linuxコンテナの内部を知ってワンランク上のコンテナ遣いを目指そう
+https://speakerdeck.com/tenforward/jtf2017
+
+B20 標的型攻撃からどのように身を守るのか
+https://www.slideshare.net/abend_cve_9999_0001/ss-79184373
+
+C20 若手エンジニアの私がMBA（経営学修士）を取りに行った話
+https://speakerdeck.com/nari_ex/jtf2017-the-story-i-got-mba
+
+D20  情シスのひみつ。人とシステムをつなぐエンジニアリングとは
+https://www.slideshare.net/cloretsblack/ss-79185381
+
+E20 インフラエンジニアのためのFPGA超入門
+
+
+F20 強化学習による「Montezuma's Revenge」への挑戦'
+https://www.slideshare.net/ItsukaraIitsuka/deepmind20166-unifying-countbased-exploration-and-intrinsic-motivation-pseudocount-montezumas-revenge
+
+G20 ハイパースケールDCで動くIaaS 〜Rancherで実現するマルチクラウド ハンズオン〜
+
+
+
+
+A30 Google出身者が作った監視システム「Prometheus」を入門から運用まで徹底解説
+https://www.slideshare.net/ssuser88ff5b/prometheus-79183671
+
+B30 Infrastructure as Code自身のテストを考える
+   後日 https://twitter.com/bbrfkr/status/901688366923522049
+
+C30 コンテナのネットワークインターフェース、その実装手法とその応用について
+https://www.slideshare.net/s1061123/ss-79184035
+
+D30 NTTグループ3社が色んなものを組み合わせてSD-WANに取り組んだ話(仮)
+
+E30 オープンソースコミュニティにおける英語が苦手な開発者の苦悩と奮闘記
+https://github.com/masayukig/non-native-english-speaker
+
+F30 急成長するサービスを支える DevOps 戦略と組織変革へのアプローチ
+https://speakerdeck.com/kakakakakku/approaches-of-devops-and-organization
+
+
+
+
+
+A40 Kubernetes でクラスタリングして解決したことと新たに出てきた課題
+  http://qiita.com/koudaiii/items/bc89368e1279649f2498
+
+B40 14万人が来場した大規模イベント「Interop」を支えた運用監視ツール Zabbix。その裏側での奮闘記
+
+C40 AWSエンジニアがオンプレミスと対峙する時
+
+D40 インフラエンジニアがConsulとStretcherをつかったデプロイ改善で開発効率の向上に貢献した話
+https://speakerdeck.com/ohsawa0515/jtf2017-consul-stretcher-deploy
+
+E40 ネットワークの検証やレビューにはもう正直疲弊したので全部プログラムで自動化できるようにしてしまえばいいと思った
+https://speakerdeck.com/corestate55/jtf2017
+
+
+F40_1 実録 WordPressで運営しているサイトがクラッキングされました
+
+
+F40_2 cronやDHCPなど「あって当たり前な機能」の最新ツール事情2017
+  http://dkron.io/
+  https://coredns.io/
+  https://www.isc.org/kea/
+  https://github.com/lclarkmichalek/etcdhcp
+
+F40_3 機械学習に超入門したはずが、いつのまにかFPGAを触っていた話
+
+G40 Javaで入門！ヤフーでも挑戦中のTDD&ペアプログラミング講座
+
+
+
+A50 どんなに頑張ったって運用の自動化もDevOpsも進まない。そう、テストがなければね
+
+B50 Grafanaで作ってみた、運用ダッシュボード Zabbix, JobScheduler, CMDBuildなど複数のデータソースをまとめて表示
+  後日？ https://www.ossl.co.jp/?p=505
+C50_1 クラウド時代のネットワーク＆セキュリティ
+https://speakerdeck.com/toshi__ya/20170827jtf
+
+C50_2 Zappaで始めるサーバレスアーキテクチャ
+  https://github.com/Miserlou/Zappa
+
+C50_3 マイクロサービスは甘くない！運用してみて分かったマイクロサービスの闇と対策
+https://www.slideshare.net/nobusue/light-and-shadow-of-microservices
+
+D50 ビジネスを支える高速デリバリを実現するアーキテクチャ
+
+E50 CDNのトレンド2017：セキュリティCDNとマルチCDN
+
+F50 博士学生が語る、4K/8K/VR配信基盤の最先端とコンテンツ配信の未来
+https://www.slideshare.net/takumanakajima90/4k8kvr
+
+
+A60 日本のエンジニアが今取り組むべきこと
+
