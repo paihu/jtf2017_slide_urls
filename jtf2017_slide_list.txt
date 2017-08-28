@@ -54,7 +54,7 @@ A30 Google出身者が作った監視システム「Prometheus」を入門から
 https://www.slideshare.net/ssuser88ff5b/prometheus-79183671
 
 B30 Infrastructure as Code自身のテストを考える
-   後日 https://twitter.com/bbrfkr/status/901688366923522049
+https://www.slideshare.net/TatsunoriSaito1/infrastructure-as-code-79200028
 
 C30 コンテナのネットワークインターフェース、その実装手法とその応用について
 https://www.slideshare.net/s1061123/ss-79184035
@@ -78,6 +78,7 @@ https://speakerdeck.com/koudaiii/number-jtf2017
 B40 14万人が来場した大規模イベント「Interop」を支えた運用監視ツール Zabbix。その裏側での奮闘記
 
 C40 AWSエンジニアがオンプレミスと対峙する時
+  後日 https://twitter.com/TAKA_0411/status/901994819542589441
 
 D40 インフラエンジニアがConsulとStretcherをつかったデプロイ改善で開発効率の向上に貢献した話
 https://speakerdeck.com/ohsawa0515/jtf2017-consul-stretcher-deploy
