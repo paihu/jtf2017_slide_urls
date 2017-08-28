@@ -90,6 +90,7 @@ F40_1 実録 WordPressで運営しているサイトがクラッキングされ�
 
 
 F40_2 cronやDHCPなど「あって当たり前な機能」の最新ツール事情2017
+https://speakerdeck.com/habuka036/cronyadhcpnado-atutedang-tariqian-naji-neng-falsezui-xin-turushi-qing-2017
   http://dkron.io/
   https://coredns.io/
   https://www.isc.org/kea/
