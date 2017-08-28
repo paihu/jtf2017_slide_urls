@@ -105,6 +105,7 @@ G40 Javaで入門！ヤフーでも挑戦中のTDD&ペアプログラミング�
 
 
 A50 どんなに頑張ったって運用の自動化もDevOpsも進まない。そう、テストがなければね
+https://www.slideshare.net/yasuhiro_yamazaki/devops-jtf2017-a50
 
 B50 Grafanaで作ってみた、運用ダッシュボード Zabbix, JobScheduler, CMDBuildなど複数のデータソースをまとめて表示
 https://www.slideshare.net/sfunai/170827-jtf-garafana
