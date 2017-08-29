@@ -123,6 +123,7 @@ D50 ビジネスを支える高速デリバリを実現するアーキテクチ�
   後日 https://twitter.com/tn961ir/status/901792075657736193
 
 E50 CDNのトレンド2017：セキュリティCDNとマルチCDN
+https://www.slideshare.net/tech_jstream/cdn-trend-2017-jtf2017
 
 F50 博士学生が語る、4K/8K/VR配信基盤の最先端とコンテンツ配信の未来
 https://www.slideshare.net/takumanakajima90/4k8kvr
