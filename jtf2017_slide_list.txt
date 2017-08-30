@@ -78,7 +78,8 @@ https://speakerdeck.com/koudaiii/number-jtf2017
 B40 14万人が来場した大規模イベント「Interop」を支えた運用監視ツール Zabbix。その裏側での奮闘記
 
 C40 AWSエンジニアがオンプレミスと対峙する時
-  後日 https://twitter.com/TAKA_0411/status/901994819542589441
+https://speakerdeck.com/dmmlabo/awsenziniagaonpuremisutodui-zhi-surutoki
+
 
 D40 インフラエンジニアがConsulとStretcherをつかったデプロイ改善で開発効率の向上に貢献した話
 https://speakerdeck.com/ohsawa0515/jtf2017-consul-stretcher-deploy
